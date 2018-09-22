@@ -1,6 +1,7 @@
 # CS294-112 HW 1: Imitation Learning
-
+Please run the hw1.ipynb
 Dependencies:
+ * Ipython Notebook 
  * Python **3.5**
  * Numpy version **1.14.5**
  * TensorFlow version **1.10.5**
